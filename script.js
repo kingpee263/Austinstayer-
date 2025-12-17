@@ -1,13 +1,13 @@
 // ===== Setup Data =====
 const setups = [
-    { src: "assets/setups/step-index-m30.jpg", name: "Step Index M30", category: "Synthetic Index" },
-    { src: "assets/setups/xauusd-gold-m30.jpg", name: "XAUUSD Gold M30", category: "Forex Pair" },
-    { src: "assets/setups/audjpy-1h.jpg", name: "AUDJPY 1H", category: "Forex Pair" },
-    { src: "assets/setups/gbpcad-h1.jpg", name: "GBPCAD H1", category: "Forex Pair" },
-    { src: "assets/setups/volatility-100-m15.jpg", name: "Volatility 100 (1s) M15", category: "Volatility Index" },
-    { src: "assets/setups/gainx-999-m15.jpg", name: "GainX 999 M15", category: "Synthetic Index" },
-    { src: "assets/setups/fx-vol-40-m30.jpg", name: "FX Vol 40 M30", category: "Volatility Index" },
-    { src: "assets/setups/gainx-999-h1.jpg", name: "GainX 999 H1", category: "Synthetic Index" }
+    { src: "step-index-m30.jpg", name: "Step Index M30", category: "Synthetic Index" },
+    { src: "xauusd-gold-m30.jpg", name: "XAUUSD Gold M30", category: "Forex Pair" },
+    { src: "audjpy-1h.jpg", name: "AUDJPY 1H", category: "Forex Pair" },
+    { src: "gbpcad-h1.jpg", name: "GBPCAD H1", category: "Forex Pair" },
+    { src: "volatility-100-m15.jpg", name: "Volatility 100 (1s) M15", category: "Volatility Index" },
+    { src: "gainx-999-m15.jpg", name: "GainX 999 M15", category: "Synthetic Index" },
+    { src: "fx-vol-40-m30.jpg", name: "FX Vol 40 M30", category: "Volatility Index" },
+    { src: "gainx-999-h1.jpg", name: "GainX 999 H1", category: "Synthetic Index" }
 ];
 
 // ===== Mobile Menu =====
